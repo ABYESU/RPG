@@ -48,8 +48,8 @@ public abstract class Living {
 		this.offensive = offensive;
 	}
 
-    // ターゲットに攻撃するメソッド
-	public abstract void attack(Living target); 
+	// ターゲットに攻撃するメソッド
+	public abstract void attack(Living target);
 
 	// 自分自身を表現する文字列のオーバーライド
 	@Override

@@ -4,7 +4,7 @@ import java.util.Random;
 
 // 乱数を作成する便利なクラス
 public class Dice {
-	
+
 	// 乱数インスタンスの生成
 	private static Random r = new Random();
 
