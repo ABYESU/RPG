@@ -79,7 +79,6 @@ public class Main {
 				System.out.println("★★ ==== 決着がついた！！ ==== ★★");
 				System.out.println();
 				System.out.println("#### 人間達は勝利した！！ ####");
-				// 終了条件を満たしたのでwhileを抜ける
 				break;
 			}
 
@@ -106,7 +105,6 @@ public class Main {
 				System.out.println("★★ ==== 決着がついた！！ ==== ★★");
 				System.out.println();
 				System.out.println("#### 人間達は敗北した！！ ####");
-				// 終了条件を満たしたのでwhileを抜ける
 				break;
 			}
 
